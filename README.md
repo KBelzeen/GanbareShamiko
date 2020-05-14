@@ -4,11 +4,11 @@ A simple Discord.py bot that looks for new manga chapters via the MangaDex API o
 ## Requirements
 Python 3.6+
 
-discord.py 1.3.3+
+* discord.py 1.3.3+
 
-requests 2.21.0
+* requests 2.21.0
 
-Earlier versions might also work, but haven't been tested.
+* Earlier versions might also work, but haven't been tested.
 
 ## Running your own instance
 Simply clone this repository, add your bot's token to the **auth.json** file, and run the application with `python mangadex.py`
